@@ -6,6 +6,11 @@
 2. Individual Project: How Race Affects Policing in Typically Conservative of Liberal States. 
 3. Individual Project Prospectus 
 
+## Note
+
+The data files for this project are in the shared google [folder](https://drive.google.com/drive/folders/1WcjUUmUKeANOCi-pNFhESVype0_6lguO?usp=sharing)
+
+Please download the data files in the data folder before running the notebook. The CSV files are big and Github has a max limit of 100M on the file size committed. 
 
 ## Group Project
 
